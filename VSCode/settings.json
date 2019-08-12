@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 17,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "files.associations": {
+        "*.css": "css"
+    },
+    "files.insertFinalNewline": true,
+    "editor.fontFamily": "Inconsolata",
+    "workbench.colorTheme": "Night Owl Light",
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "never"
+}
